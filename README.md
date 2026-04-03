@@ -1,2 +1,2 @@
 # vibecoded-stupid-ai-calculator-for-the-competition
-read the read me
+this is made with ai its a calculator use it and then nothing
